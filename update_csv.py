@@ -1,15 +1,22 @@
 import requests
-from bs4 import BeautifulSoup
 import pandas as pd
 import io
+import os
+import json
+from bs4 import BeautifulSoup
 
-# URLs
+# GitHub Config
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+GITHUB_REPO = "the-craccpot/Driveworld-Bot"  # Replace with your repo
+GITHUB_FILE_PATH = "values.csv"
+GITHUB_API_URL = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_FILE_PATH}"
+HEADERS = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
+
+# Website URL
 WEBSITE_URL = "https://sites.google.com/view/drive-world-values/values-list"
-GITHUB_RAW_CSV_URL = "https://raw.githubusercontent.com/the-craccpot/Driveworld-Bot/main/values.csv"
-CSV_FILE = "values.csv"
 
-# Step 1: Fetch and Process Car Data from Website
-def fetch_car_data_from_site():
+# Step 1: Fetch Data from Website
+def fetch_car_data():
     response = requests.get(WEBSITE_URL)
     if response.status_code != 200:
         print("⚠️ ERROR: Failed to fetch website data.")
@@ -66,38 +73,48 @@ def fetch_car_data_from_site():
 
     return car_list
 
-# Step 2: Save Car Data to CSV
+# Step 2: Save Data to CSV
 def save_to_csv(car_data):
-    headers = ["Name", "Price", "Market Find", "Market Sale", "Demand", "Inspired by"]
-    
     df = pd.DataFrame(car_data)
-    df.to_csv(CSV_FILE, index=False)
-    print(f"✅ Data saved to {CSV_FILE}")
+    df.to_csv(GITHUB_FILE_PATH, index=False)
+    print(f"✅ Data saved to {GITHUB_FILE_PATH}")
 
-# Step 3: Fetch Car Data from GitHub CSV
-def fetch_car_data_from_github():
+# Step 3: Commit and Push CSV to GitHub
+def upload_to_github():
     try:
-        response = requests.get(GITHUB_RAW_CSV_URL)
-        response.raise_for_status()  # Raise an error for failed requests
+        # Get the current file SHA
+        response = requests.get(GITHUB_API_URL, headers=HEADERS)
+        response_json = response.json()
+        sha = response_json.get("sha", "")
 
-        # Load CSV data into a pandas DataFrame
-        df = pd.read_csv(io.StringIO(response.text))
-        car_list = df.to_dict(orient="records")  # Convert to list of dictionaries
+        with open(GITHUB_FILE_PATH, "r", encoding="utf-8") as file:
+            content = file.read()
+        
+        # Upload new content
+        payload = {
+            "message": "🔄 Auto-update values.csv",
+            "content": content.encode("utf-8").decode("latin-1"),  # Encode correctly for GitHub
+            "sha": sha
+        }
 
-        print(f"✅ Loaded {len(car_list)} cars from values.csv (GitHub).")
-        return car_list
+        update_response = requests.put(GITHUB_API_URL, headers=HEADERS, json=payload)
+
+        if update_response.status_code == 200 or update_response.status_code == 201:
+            print("✅ values.csv successfully updated on GitHub!")
+        else:
+            print(f"❌ Failed to update GitHub file: {update_response.text}")
+
     except Exception as e:
         print(f"❌ ERROR: {e}")
-        return []
 
 # Main Execution
 print("🔄 Fetching car data from website...")
-car_data = fetch_car_data_from_site()
+car_data = fetch_car_data()
 
 if car_data:
     print(f"✅ {len(car_data)} cars found. Saving to CSV...")
     save_to_csv(car_data)
-    print("📤 Upload `values.csv` to GitHub manually!")
-
-# Fetching from GitHub
-fetch_car_data_from_github()
+    print("📤 Uploading values.csv to GitHub...")
+    upload_to_github()
+else:
+    print("⚠️ No data extracted.")
