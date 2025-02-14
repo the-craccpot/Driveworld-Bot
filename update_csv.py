@@ -1,14 +1,16 @@
 import requests
 from bs4 import BeautifulSoup
-import csv
+import pandas as pd
+import io
 
-# URL of the website containing the values
-URL = "https://sites.google.com/view/drive-world-values/values-list"
+# URLs
+WEBSITE_URL = "https://sites.google.com/view/drive-world-values/values-list"
+GITHUB_RAW_CSV_URL = "https://raw.githubusercontent.com/the-craccpot/Driveworld-Bot/main/values.csv"
 CSV_FILE = "values.csv"
 
-# Function to fetch and process car data
-def fetch_car_data():
-    response = requests.get(URL)
+# Step 1: Fetch and Process Car Data from Website
+def fetch_car_data_from_site():
+    response = requests.get(WEBSITE_URL)
     if response.status_code != 200:
         print("⚠️ ERROR: Failed to fetch website data.")
         return []
@@ -64,31 +66,38 @@ def fetch_car_data():
 
     return car_list
 
-# Function to write data to CSV
-def write_to_csv(car_data):
+# Step 2: Save Car Data to CSV
+def save_to_csv(car_data):
     headers = ["Name", "Price", "Market Find", "Market Sale", "Demand", "Inspired by"]
     
-    with open(CSV_FILE, mode="w", newline="", encoding="utf-8") as file:
-        writer = csv.DictWriter(file, fieldnames=headers)
-        writer.writeheader()
-        
-        for car in car_data:
-            writer.writerow({
-                "Name": car.get("Name", "N/A"),
-                "Price": car.get("Price", "N/A"),
-                "Market Find": car.get("Market Find", "N/A"),
-                "Market Sale": car.get("Market Sale", "N/A"),
-                "Demand": car.get("Demand", "N/A"),
-                "Inspired by": car.get("Inspired by", "N/A")
-            })
+    df = pd.DataFrame(car_data)
+    df.to_csv(CSV_FILE, index=False)
+    print(f"✅ Data saved to {CSV_FILE}")
 
-# Main execution
-print("🔄 Fetching car data...")
-car_data = fetch_car_data()
+# Step 3: Fetch Car Data from GitHub CSV
+def fetch_car_data_from_github():
+    try:
+        response = requests.get(GITHUB_RAW_CSV_URL)
+        response.raise_for_status()  # Raise an error for failed requests
+
+        # Load CSV data into a pandas DataFrame
+        df = pd.read_csv(io.StringIO(response.text))
+        car_list = df.to_dict(orient="records")  # Convert to list of dictionaries
+
+        print(f"✅ Loaded {len(car_list)} cars from values.csv (GitHub).")
+        return car_list
+    except Exception as e:
+        print(f"❌ ERROR: {e}")
+        return []
+
+# Main Execution
+print("🔄 Fetching car data from website...")
+car_data = fetch_car_data_from_site()
 
 if car_data:
-    print(f"✅ {len(car_data)} cars found. Writing to CSV...")
-    write_to_csv(car_data)
-    print(f"📁 Data saved to {CSV_FILE}")
-else:
-    print("⚠️ No data extracted.")
+    print(f"✅ {len(car_data)} cars found. Saving to CSV...")
+    save_to_csv(car_data)
+    print("📤 Upload `values.csv` to GitHub manually!")
+
+# Fetching from GitHub
+fetch_car_data_from_github()
