@@ -9,7 +9,10 @@ OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 PRICING_CHANNEL_ID = os.environ.get("PRICING_CHANNEL_ID")
 RECORD_ENTRY_CHANNEL_ID = os.environ.get("RECORD_ENTRY_CHANNEL_ID")
 
-print("Bot Token:", TOKEN)  # Debugging line to check if the token is being read
+print("Environment Variables:")
+print(os.environ)  # Debugging line
+
+print("Bot Token:", TOKEN)  # Debugging line
 
 openai.api_key = OPENAI_API_KEY
 
