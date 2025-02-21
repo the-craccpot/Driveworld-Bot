@@ -1,0 +1,2283 @@
+
+
+Allegro Evo
+$ price:1-4M
+Market Find: easy
+Market sale: hard
+Demand: low
+Inspired by: Ferrari 812 Superfast Mansory Edition
+Car Class: Sport
+
+
+Apex GTR
+$ price:12-18M
+Market Find: medium
+Market sale: moderate
+Demand: normal
+Inspired by: BMW M4
+Car Class: Sport
+
+
+Apex Xtreme
+$ price:1-4M
+Market Find: easy
+Market sale: medium
+Demand: normal
+Inspired by: LBWK BMW m4
+Car Class: Coupe
+
+
+Ardente GTR
+$ price:5-15M
+Market Find: medium
+Market sale: moderate
+Demand: low
+Inspired by: Ferrari FXX Evoluzione
+Car Class: Track
+
+
+Avenger 4700
+$ Price:20-35M
+Market Find: medium
+Market sale:  medium
+Demand: high
+Inspired by: Dodge Ram 3500 Monster Truck
+Car Class: Utility
+
+
+Badger
+$ price:220-700K
+Market Find: easy
+Market sale: easy
+Demand: very  low
+Inspired by: Resvani Tank
+Car Class: Utility
+
+
+Bananamobile
+$ price: 600K-1M
+Market Find: easy
+Market sale: medium
+Demand: low
+Inspired by: A Banana
+Car Class: Misc
+
+
+Bavette
+$ price:10-15M
+Market Find: medium
+Market sale: easy
+Demand: high
+Inspired by: Dodge SRT Tomahawk
+Car Class: Hyper
+
+
+Blip GT
+$ price:2.5-6M
+Market Find: medium
+Market sale: moderate
+Demand: low
+Inspired by: Volkswagen Golf GTI
+Car Class: Coupe
+
+
+Bloxy Mobile
+$ price: 1-3M
+Market Find: easy
+Market sale: medium
+Demand: normal (rarer than the f40!)
+Inspired by: Red Bull Mini Cooper
+Car Class: Misc
+
+
+BloxOne
+$ price:5.1M
+Market Find:easy
+Market sale: hellish
+Demand: no one wants it🗿 
+Inspired by: Ultimate Drive Speedster
+related cars: hyperone
+Car Class: Hyper
+
+
+Buck Rally
+$ price:1-2M
+Market Find: easy
+Market sale: easy
+Demand:  low
+Inspired by: Ford Bronco
+Car Class: Utility
+
+
+Buggy
+$ price:5-16M
+Market Find: hard
+Market sale: hard
+Demand: low
+Inspired by: Bugatti Type 35
+Car Class: Classic
+
+
+Bullet
+$ Price: 700-800M
+Market Find: medium
+Market sale: medium
+Demand: skyrocketing
+Inspired by: McLaren Speedtail
+Car Class: Super
+
+
+Buzzard
+$ Price: 5-9M
+Market Find: medium
+Market sale: moderate
+Demand: low
+Inspired by: Volkswagen Bus
+Car Class: Utility
+
+
+Camo Freedom 
+$ price: 700K-1.5M
+Market Find: medium
+Market sale: easy
+Demand: normal
+Inspired by: Chevy Camaro ZL1
+Car Class: Track
+
+
+Camo Stock
+$ price:1-6M
+Market Find: easy
+Market sale: medium
+Demand: normal
+
+Inspired by: Garage 56 Le Mans Nascar
+
+Car Class: Track
+
+
+Casper TRC
+
+$ price:1-6M
+
+Market Find: medium
+Market sale: easy
+Demand: normal
+
+Inspired by: Freightliner Cascadia
+related trucks: casper
+
+Car Class: Semi
+
+
+Century X
+
+$ price:3-5M
+
+Market Find: medium
+Market sale: easy
+Demand: normal
+
+Inspired by: Mercedes 300SL
+
+Car Class: Classic
+
+
+Comet E-X
+
+$ price:15-20M
+
+Market Find: moderate
+Market sale: medium
+Demand: High
+
+Inspired by: Corvette E-ray
+
+Car Class: Sport
+
+
+Costello RT
+
+$ price: 1-3M
+
+Market Find: easy
+Market sale: medium
+Demand: low
+Inspired by: Lamborghini Countach
+
+Car Class: Sport
+
+
+Contender 6x6
+
+$ price:1-6M
+
+Market Find: medium
+Market sale easy
+Demand: normal
+
+Inspired by: Dodge Challenger SRT Hellcat 6x6
+
+Car Class: Muscle
+
+
+Contender HT
+
+$ price:10-25M
+
+Market Find: moderate
+Market sale: medium
+Demand: normal
+
+Inspired by: Dodge Challenger
+
+Car Class: Muscle
+
+
+Cutter Xtreme
+
+$ price:10-21M
+
+Market Find: hard
+Market sale: hard
+Demand: normal
+
+Inspired by: BMW M2
+
+Car Class: Coupe
+
+
+Cyclone GTRS
+
+$ price:1-2M
+
+Market Find: easy
+Market sale: easy
+Demand: low
+
+Inspired by: Porsche Carrera GT Gemballa 
+
+Car Class: Sport
+
+
+Dallara DW12
+
+$ price: no price
+
+THIS CAR IS NOT TRADABLE NOR CAN BE SOLD 
+
+Inspired by: Indycar
+
+Car Class: Dallara DW12
+
+
+DragPal
+
+$ price:1-6M
+
+Market Find: easy
+Market sale:medium
+Demand: High
+
+Inspired by: Peel P50
+
+Car Class: Misc
+
+
+Drag Ranger
+
+$ price:2-7M
+
+Market Find:  medium
+Market sale: moderate
+Demand: normal
+
+Inspired by: Drag Jeep Wrangler
+
+Car Class: Muscle
+
+
+Edler
+
+$ Price: 70-85M
+
+Market Find: moderate
+Market sale: easy
+Demand: normal
+
+Inspired by: Mercedes CLK GTR 
+
+Car Class: Sport
+
+
+Edler Roadster
+
+$ price: 1-3M
+
+Market Find: easy
+Market sale: medium
+Demand: normal
+Inspired by: Mercedes CLK GTR Roadster
+
+Car Class: Sport
+
+
+Edler evo
+
+$ Price: 6M
+
+Market Find: moderate
+Market sale: easy
+Demand: normal
+
+Inspired by: Mercedes CLK GTR 
+
+Car Class: Sport
+
+
+Femaris Widebody
+
+$ price:25-40M
+Market Find: hard
+Market sale: hard
+Demand: normal
+
+Inspired by: Audi RS6
+
+Car Class: Sedan
+
+
+Frontier
+
+$ price:100-600K
+Market Find: easy
+Market sale: easy
+Demand: low
+Inspired by: Jeep Grand Cherokee
+
+Car Class: Utility
+
+
+Future Volition
+
+$ price:600K-3M
+Market Find: medium
+Market sale: moderate
+Demand: low
+
+Inspired by: BMW i8
+
+Car Class: Sport
+
+
+Galano
+
+$ price:700K-1M
+Market Find: easy
+Market sale: easy
+Demand: low
+
+Inspired by: Lamborghini Gallardo
+
+Car Class: Sport
+
+
+Grant
+
+$ price: 70-85M
+
+Market Find: moderate
+Market sale: medium
+Demand: low
+
+Inspired by: Ford GT 2017
+
+Car Class: Sport
+
+
+Hammer ev 6x6
+
+$ price:25-40M
+
+Market Find: medium
+Market sale: medium
+Demand: normal
+
+Inspired by: Hummer EV 6x6
+
+Car Class: Utility
+
+
+Hellion
+
+$ price:1-4M
+
+Market Find: easy
+Market sale: easy
+Demand: normal
+
+Inspired by: Trophy Truck
+
+Car Class: Utility
+
+
+Horizon Casanova
+
+$ price:1-5M
+
+Market Find: moderate
+Market sale: medium
+Demand: normal
+
+Inspired by: Nissan R33 GTR
+
+Car Class: Coupe
+
+
+Hooligan
+
+$ price:2-6M
+
+Market Find: medium
+Market sale: easy
+Demand: high 
+
+Inspired by: Hoonigan Hoonircorn V2
+
+Car Class: Muscle
+
+
+Hooligan beast
+
+$ price:1-4M
+
+Market Find: easy
+Market sale: moderate
+Demand: low
+
+Inspired by: Hoonigan Hoonitruck
+
+Car Class: Utility
+
+
+Hooligan Nimbus
+
+$ price:16-28M
+
+Market Find: medium
+Market sale: medium
+Demand: high 
+
+Inspired by: Hoonigan Hoonipigasus
+
+Car Class:  Track
+
+
+Hooligan Cyber
+
+$ price:1-5M
+
+Market Find: medium
+Market sale: moderate
+Demand: normal
+
+Inspired by: Tesla Cybertruck or CyberRoadster
+
+Car Class: Utility
+
+
+Holiday inferno
+
+$ Price: 700M-1B+
+
+Market Find: hard
+Market sale: easy
+Demand: high
+
+Inspired by: Dragster
+
+Car Class: Misc
+
+
+Horizon Xtreme
+
+$ price:400K-1M
+
+Market Find: easy
+Market sale: medium
+Demand:normal
+
+Inspired by: Nissan GTR Skyline R32
+
+Car Class: Coupe
+
+
+Inferno
+
+$ price:9-16M
+
+Market Find: moderate
+Market sale: medium
+Demand: High
+
+Inspired by: Dragster
+
+Car Class: Misc
+
+
+Jupiter GTR
+
+$ price:1-3M
+
+Market Find: easy
+Market sale: medium
+popularity: low
+
+Inspired by: Bentley Continental V8
+
+Car Class: Coupe
+
+
+Jupiter
+
+$ price:1-3M
+
+Market Find: easy
+Market sale: medium
+popularity: low
+
+Inspired by: Bentley Continental V8
+
+Car Class: Coupe
+
+
+Kar
+
+$ price:1-5M
+
+Market Find: easy
+Market sale: medium
+Demand: normal
+
+Inspired by: Mazda Autozam AZ1
+
+Car Class: Sport
+
+
+Kronos mason
+
+$ price:700k-1M
+
+Market Find: easy
+Market sale: hard
+Demand: low
+
+Inspired by: Lamborghini Lanzador
+
+Car Class: Utility
+
+
+LRC Xtreme
+
+$ price:2-5M
+
+Market Find: medium
+Market sale: easy
+Demand: normal
+
+Inspired by: Lexus LFA GT3
+
+Car Class: Sport
+
+
+Luxor
+
+$ Price: 30-40M
+
+Market Find: easy
+Market sale: medium
+Demand: high
+
+Inspired by: Mercedes 190E EVO
+
+Car Class: Sedan
+
+
+Megabus
+
+$ price:4-12M
+
+Market Find: easy
+Market sale: moderate
+Demand: low
+
+Inspired by: Volkswagen T1
+
+Car Class: Classic
+
+
+Mixture 'Classic'
+
+$ price:1.6-2M
+
+Market Find: easy
+Market sale: hard
+Demand: very low
+
+Inspired by: formula one lego
+
+Car Class: Track
+
+
+Modena
+
+$ price: 35-45M
+
+Market Find: medium
+Market sale: easy
+Demand: normal
+
+Inspired by: Maserati MC12 Corsa
+
+Car Class: Super
+
+
+Mori15 Xtreme
+
+$ price: 3-7M
+
+Market Find:  medium
+Market sale: easy
+Demand: normal
+
+Inspired by: Nissan Silvia S15 Super Silhouette
+
+Car Class: Sport
+
+
+Nexus 2
+
+$ Price: 60-80M
+
+Market Find: hard
+Market sale: hard
+Demand: low
+
+Inspired by: Acura NSX-R GT
+
+Car Class: Coupe
+
+
+Nexus Xtreme
+
+$ price:2-3M
+
+Market Find: easy
+Market sale:  medium
+Demand: low
+
+Inspired by: Honda NSX
+
+Car Class: Sport
+
+
+Nightline S34 Xtreme
+
+$ Price: 35-40M
+
+Market Find: medium
+Market sale: hard
+Demand: low
+
+Inspired by: Nissan Skyline Super Silhouette
+
+Car Class: Sport
+
+
+Nightline s35 Xtreme
+
+$ price:5-8M
+
+Market Find: moderate
+Market sale: easy
+Demand: normal
+
+Inspired by: Nissan GTR R35 LBWK
+
+Car Class: Sport
+
+
+Nimbus 933 Xtreme (390 xtreme)
+
+$ price:3-5M
+
+Market Find:  medium
+Market sale: easy
+Demand: High
+
+Inspired by: Porsche 911 933
+
+Car Class: Sport
+
+
+Nimbus 933 Trek (Trek 390)
+
+$ price: 400K-2M
+
+Market Find: easy
+Market sale:  medium
+Demand: low
+
+Inspired by: Porsche 911 933
+
+Car Class: Sport
+
+
+Ocelot Evo
+
+$ price:700K-1.5M
+
+Market Find: easy
+Market sale: easy
+Demand: normal
+
+Inspired by: Ford GT 40 MK2
+
+Car Class: Sport
+
+
+Odin 6x6
+
+$ price:4-7M
+
+Market Find: medium
+Market sale: medium
+Demand: normal
+
+Inspired by: Lamborghini Urus 6x6
+
+Car Class: Utility
+
+
+Pioneer Summit
+
+$ price:1-2M
+
+Market Find: easy
+Market sale: medium
+Demand:: low
+
+Inspired by: BMW M1
+
+Car Class: Classic
+
+
+Pioneer Rally
+
+$ price:1-5M
+
+Market Find: medium
+Market sale: moderate
+Demand: normal
+
+Inspired by: BMW M1 Procar
+related cars: pioneer summit, pioneer
+
+Car Class: Classic
+
+
+Present Pal
+
+$ price:600K-1M
+
+Market Find: medium
+Market sale: easy
+Demand: normal
+
+Inspired by: Peel P50
+
+Car Class: Misc
+
+
+Prince
+
+$ price: 2-5M
+
+Market Find: medium
+Market sale: medium
+Demand: normal
+Inspired by: Koenigsegg CCX
+
+Car Class: Super
+
+
+Project Rasant
+
+$ price:2-5M
+
+Market Find: medium
+Market sale: hard
+Demand: normal
+
+Inspired by: Mercedes-AMG One
+
+Car Class: Super
+
+
+PumpkinPal
+
+$ price:700K-1M
+
+Market Find: easy
+Market sale: easy
+Demand: normal
+
+Inspired by: Peel P50
+
+Car Class: Misc
+
+
+Quicksilver
+
+$ Price:17-25M
+
+Market Find: medium
+Market sale: easy
+Demand: normal 
+
+Inspired by: DMC-12 Delorean
+
+Car Class: Classic
+
+
+Quinten Rally
+
+$ price:1-3M
+
+Market Find: moderate
+Market sale: medium
+Demand: normal
+
+Inspired by: Audi Sport Quattro S1
+
+Car Class: Track
+
+
+Racepal
+
+$ price:2-4M
+
+Market Find:  medium
+Market sale: easy
+Demand: High
+
+Inspired by: Peel P50
+
+Car Class: Misc
+
+
+Rallyhunter 
+
+$ price: 1-3M
+
+Market Find: easy
+Market sale: easy
+Demand: low
+
+Inspired by: Subaru Impreza WRX 22B STi (Ferrari engine swap)
+
+Car Class: Coupe
+
+
+Rally RS
+
+$ price:200-600K
+
+Market Find: easy
+Market sale:  hard
+Demand:  very low
+
+Inspired by: Ford Focus RS Rally
+
+Car Class: Coupe
+
+
+Razor UTE Evo
+
+$ price:1-3M
+
+Market Find: easy
+Market sale: medium
+Demand: normal
+
+Inspired by: Holden UTE
+
+Car Class: Utility
+
+
+Razor 2 Xtreme
+
+$ price:1-3M
+
+Market Find: easy
+Market sale: medium
+Demand: normal
+
+Inspired by: BMW M3 GT2
+
+Car Class: Track
+
+
+Razor Xtreme
+
+$ Price:40-50M
+
+Market Find: medium
+Market sale: medium
+Demand: normal
+
+Inspired by: BMW E46 M3 GTR
+Car Class: Sport
+
+
+Rat Rod
+
+$ price: 700K-1M
+
+Market Find:  medium
+Market sale:  hard
+Demand: peak (its a joke, VERY LOW)
+
+Inspired by: Volkswagen Beetle
+
+Car Class: Classic
+
+
+Regent
+
+$ Price: 400-450M
+
+Market Find: medium
+Market sale: medium
+Demand: normal
+
+Inspired by: Koenigsegg Regera 
+
+Car Class: Hyper
+
+
+Rosso Widebody
+
+$ Price: 2-10M
+
+Market Find: easy
+Market sale: medium
+Demand: low
+
+Inspired by: Ferrari 512 Testarossa
+
+Car Class: Coupe
+
+
+Rotary Xtreme
+
+$ price:6-10M
+
+Market Find: medium
+Market sale: medium
+Demand:  normal
+
+Inspired by: Mazda RX7 Veilside
+
+Car Class: Sport
+
+
+Saxxon
+
+$ price:20-30M
+
+Market Find: hard
+Market sale: medium
+Demand: normal
+
+Inspired by: HSV Maloo
+
+Car Class: Utility
+
+
+Scimitar
+
+$ price:1-2M
+
+Market Find: easy
+Market sale: hard
+Demand: low
+
+Inspired by: Ferrari SF90
+related cars: Scimitar Evo
+
+Car Class: Super
+
+
+Scimitar Evo
+
+$ price:12-30M
+
+Market Find: moderate
+Market sale: easy
+Demand: normal
+
+Inspired by: Ferrari SF90 XX
+
+Car Class: Track
+
+
+Sideswipe X
+
+$ price:1-2M
+
+Market Find: easy
+Market sale: hard
+Demand: low
+
+Inspired by: Chevrolet Corvette Stingray C2
+
+Car Class: Classic
+
+
+Sideswipe RT
+
+$ price: 700k-2M
+
+Market Find: easy
+Market sale: easy
+Demand: i am a plastic girl (low)
+
+Inspired by: Chevy Corvette C1
+
+Car Class: Classic
+
+
+Sierra12 Evo
+
+$ price: unknown
+
+Market Find: not out
+Market sale: not out
+Demand:  not out
+
+Inspired by: lamborghini
+
+Car Class: Track
+
+
+Solace
+
+$ price: 2-4M
+
+Market Find: medium
+Market sale: medium
+Demand: normal
+
+Inspired by: Aston Martin One 77
+
+Car Class: Sport
+
+
+Solar Xtreme
+
+$ price:10-18M
+
+Market Find: hard
+Market sale: medium
+Demand: normal
+
+Inspired by: Mitsubishi Eclipse
+
+Car Class: Coupe
+
+
+Stallion M Race
+
+$ price:1-2M
+
+Market Find: easy
+Market sale: medium
+Demand: low
+
+Inspired by: Ford Mustang Fastback
+
+Car Class: Classic
+
+
+Stinger
+
+$ price:700K-1.5M
+
+Market Find: easy
+Market sale: medium
+Demand: normal
+
+Inspired by: Aston Martin DB12
+
+Car Class: Sport
+
+
+Stinger Gtr
+
+$ price:1-5M
+
+Market Find: medium
+Market sale: hard
+Demand: normal
+
+Inspired by: Aston Martin DB11
+related cars: stinger
+
+Car Class: Sport
+
+
+Summit Beast
+
+$ price:1-4M
+
+Market Find: easy
+Market sale: medium
+Demand: low
+
+Inspired by: Chevy 1500
+
+Car Class: Classic
+
+
+Super4 Xtreme
+
+$ price:15-20M
+
+Market Find: moderate
+Market sale: easy
+Demand: normal
+
+Inspired by: castrol Mk 4 Supra
+
+Car Class: Track
+
+
+Super5 Xtreme
+
+$ price:20-40M
+
+Market Find: hard
+Market sale: easy
+Demand: High 
+
+Inspired by: Mk 5 Supra
+
+Car Class: Sport
+
+
+The Patriot
+
+$ Price: 800K-1M
+
+Market Find: easy
+Market sale: easy
+Demand: FREDOOM
+
+Inspired by: AMERICA
+
+Car Class: Utility
+
+
+Tiger1
+
+$ price:4-10M
+
+Market Find: medium
+Market sale: easy
+Demand: High
+
+Inspired by: Scion FRS
+
+Car Class: Sport
+
+
+Torakku Xtreme
+
+$ price:2-5M
+
+Market Find: easy
+Market sale: easy
+Demand: normal
+
+Inspired by: Kei Truck
+
+Car Class: Utility
+
+
+Trex Beast
+
+$  Price:1-3M
+
+Market Find: easy
+Market sale: easy
+Demand: normal
+
+Inspired by: Dodge Ram 1500 TRX
+
+Car Class: Utility
+
+
+Trident
+
+$ Price: 800M-1B
+
+Market Find: medium
+Market sale: easy
+Demand: high
+
+Inspired by: McLaren Solus GT
+
+Car Class: Hyper
+
+
+V10RS widebody
+
+$ price:600K-2M
+
+Market Find: easy
+Market sale: moderate
+Demand: low
+
+Inspired by: Audi R8 V10+
+
+Car Class: Sport
+
+
+Vandel Widebody
+
+$ Price: 1-3M
+
+Market Find: easy
+Market sale: medium
+Demand: low
+
+Inspired by: BMW M2 Comp
+
+Car Class: Coupe
+
+
+Vern
+
+$ price: 600K-1M
+
+Market Find: easy
+Market sale: easy
+Demand: normal
+
+ 
+Inspired by: Checker Marathon
+
+Car Class: Sedan
+
+
+Victory Trident
+
+$ Price: 2-3B
+
+Market Find: hard
+Market sale: easy
+Demand: high
+
+Inspired by: McLaren Solus GT
+
+Car Class: Hyper
+
+
+Viscount
+
+$ price:1-3M
+
+Market Find: easy
+Market sale: easy
+Demand: High
+
+Inspired by: Rolls Royce Phantom
+
+Car Class: Coupe
+
+
+Vivec
+
+$ price: 2-8M
+
+Market Find: easy
+Market sale: medium
+Demand: high
+Inspired by: Rimac Nevera
+
+Car Class: Track
+
+
+Vulture VT
+
+$ price:3-9M
+
+Market Find: medium
+Market sale: moderate
+Demand: high
+
+Inspired by: Bugatti VGT
+
+Car Class: Track
+
+
+Wagen 6x6
+
+$ Price:8-16M
+
+Market Find: easy
+Market sale: hard
+Demand: low
+
+Inspired by: Mercedes G63 6x6
+
+Car Class: Utility
+
+
+
+Zephyr Evo
+
+$ price:1-5M
+
+Market Find: medium
+Market sale: easy
+Demand: normal
+
+Inspired by: Porsche 917/30
+
+Car Class: Track
+
+
+ZeroOne R
+
+$ price:1-3M
+
+Market Find: medium
+Market sale: moderate
+Demand: high
+
+Inspired by: Mclaren 765LT
+
+Car Class: Super
+
+
+Zoomer
+
+$ Price: 700K-1M
+
+Market Find: easy
+Market sale: easy
+Demand: normal
+
+Inspired by: Little Tikes car
+
+Car Class: Misc
+
+
+Zeta Roadster
+
+$ Price:100-200M
+
+Market Find: medium
+Market sale: easy
+Demand: normal
+
+Inspired by: Pagani Zonda 760LM
+
+Car Class: Hyper
+
+
+Diavolo
+
+$ price: 3-4M
+
+Market Find: moderate
+Market sale: medium
+Demand: normal
+
+Inspired by: Lamborghini Diablo
+
+Car Class: Sport
+
+
+Rasant Black
+
+$ price: 5-9M
+
+Market Find: moderate
+Market sale: medium
+Demand: normal
+
+Inspired by: Mercedes AMG GT Black Series
+
+Car Class: Sport
+
+
+Aero GT RS
+
+$ price: 1-3M
+
+Market Find: easy
+Market sale: easy
+Demand: low
+
+Inspired by: McLaren 600 LT
+
+Car Class: Hyper
+
+
+Stratus ST4 RS
+
+$ price: 1-3M
+
+Market Find: easy
+Market sale: easy
+Demand: low
+
+Inspired by: Porsche 911 GT4 RS
+
+Car Class: Track
+
+
+AeroLT
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+Meteor
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+Haroku Xtreme
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+place holder for the updated list (some cars will be removed and some others will be added)
+
+
+Akuma rally
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+Boatmobile
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Condor xtreme
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Jack rabbit
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Epsilon roadster
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Barvette Evo
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Blade Evo
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+B-127 (Badassatron)
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Epsilon roadster
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Knight
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Proton Wagon
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Agent
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Silvio Evo
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Quicksilver Time Machine
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Jaeger Evo
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Mako Evo
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Silverstone
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Jupiter
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Orion pax (optimus prime)
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+D-15 (megatron)
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Insect (rubbert)
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Innovation 37
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Hammer A1
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Stallion Beast
+
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Emperor
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+
+
+Rotary Evo
+
+$ Price:250-350M
+
+Market Find: hard
+Market sale: easy
+Demand: High
+
+Inspired by: Mazda 787B
+
+Car Class: Track
+
+
+Coach
+
+$ price:25-40M
+
+Market Find: medium
+Market sale: hard
+Demand: low
+
+Inspired by: We dont know
+
+Car Class: Misc
+
+
+osiris
+
+$ price:15-25M
+
+Market Find:  hard
+Market sale easy
+Demand: High
+
+Inspired by: Lykan Hypersport
+
+Car Class: Hyper
+
+
+Cirrus 411 Rally
+
+$ price: 10-20M
+
+Market Find: medium
+Market sale: hard
+Demand: Low
+
+Inspired by: Porsche 911R GT Rally spec
+
+Car Class: Sport
+
+
+Zeus Evo
+
+$ price:40-45M
+
+Market Find: Moderate
+Market sale: easy
+Demand: High
+
+Inspired by: 1969 porshe 917k
+
+Car Class:
+
+
+Gridiron
+
+$ Price:90-120M
+
+Market Find: hard
+Market sale: easy
+Demand: high
+
+Inspired by: Audi S1 E-tron Quattro
+
+Car Class: Sport
+
+
+KingFisher
+
+$ Price:80-110M
+
+Market Find: hard
+Market sale:  medium
+Demand: normal
+
+Inspired by: Dodge Charger Daytona
+
+Car Class: Classic
+
+
+Stallion Patrol
+
+$ price: 100K
+
+Market Find: easy
+Market sale: easy
+Demand: low
+
+Inspired by: Ford Mustang
+
+Car Class: Muscle
+
+
+Voyager
+
+$ price: 200K
+
+Market Find: easy
+Market sale: easy
+Demand: low
+
+Inspired by: Ford Explorer
+
+Car Class: Utility
+
+
+Interceptor
+
+$ price: 50-100K
+
+Market Find: easy
+Market sale: easy
+Demand: low
+
+Inspired by: Dodge Charger
+
+Car Class: muscle
+
+
+Crest
+
+$ price: 80K
+
+Market Find: easy
+Market sale: easy
+Demand: low
+
+Inspired by: Ford Crown Victoria
+
+Car Class: Sedan
+
+
+Chicane 
+
+$ price: 500K
+
+Market Find: easy
+Market sale: easy
+Demand: normal
+
+Inspired by: BMW G31 Touring
+
+Car Class: Sedan
+
+
+Crown (Mr.Bean)
+
+$ price: 500K-1M
+
+Market Find: easy
+Market sale: easy
+Demand: normal
+
+Inspired by: 1977 Leyland Cars Mini Cooper 1000 Mark IV 
+
+Car Class: Coupe
+
+
+K.I.T.E
+
+$ price: 600K-1M
+
+Market Find: easy
+Market sale: easy
+Demand: normal
+
+Inspired by: Pontiac Firebird Trans-AM
+
+Car Class: Coupe
+
+
+Butler Roadster
+
+$ price: 500K-1M
+
+Market Find: easy
+Market sale: easy
+Demand: normal
+
+Inspired by: Ferrari 250 GT
+
+Car Class: Classic
+
+
+R400BC
+
+$ price: 1-3M
+
+Market Find: easy
+Market sale: medium
+Demand: low
+
+Inspired by: Ferrari F40 LM barchetta
+
+Car Class: Super
+
+
+Future Roadster
+
+$ price: 500K-3M
+
+Market Find: easy
+Market sale: easy
+Demand: low
+
+Inspired by: BMW I8
+
+Car Class: Sport
+
+
+Roadster Spyder
+
+$ price: 1-2M
+
+Market Find: easy
+Market sale: easy
+Demand: low
+
+Inspired by: Mazda MX-5 Miata
+
+Car Class: Coupe
+
+
+Diavolo Evo
+
+$ price: 10-25M
+
+Market Find: moderate
+Market sale: medium
+Demand: normal
+
+Inspired by: Lamborghini Diablo GTR
+
+Car Class: Sport
+
+
+LRXK
+
+$ price: 3-5M
+
+Market Find: moderate
+Market sale: medium
+Demand: normal
+
+Inspired by: Ferrari FXX K
+
+Car Class: Track
+
+
+AeroOne GTR
+
+$ price: 1-3M
+
+Market Find: easy
+Market sale: easy
+Demand: low
+
+Inspired by: McLaren P1 GTR
+
+Car Class: Super
+
+
+Zenna GTR
+
+$ price: 1-3M
+
+Market Find: easy
+Market sale: easy
+Demand: low
+
+Inspired by: McLaren Senna GTR
+
+Car Class: Super
+
+
+CyberVolo
+
+$ price:10-20M
+
+Market Find: hard
+Market sale: easy
+Demand: high
+
+Inspired by: Lamborghini diablo (cyber edition)
+
+Car Class: Sport
+
+
+Apex S4 RS
+
+$ price: 1-3M
+
+Market Find: easy
+Market sale: easy
+Demand: low
+
+Inspired by: BMW M4 CSL
+
+Car Class: Track
+
+
+Widebody Exotica
+
+$ price:1-2M
+
+Market Find: easy
+Market sale: medium
+Demand: low
+
+Inspired by: Ferrari 458
+
+Car Class: Super
+
+
+Widebody Carbon
+
+$ price: 1-3M
+
+Market Find: easy
+Market sale: easy
+Demand: normal
+
+Inspired by: Lamborghini Aventador SVJ
+
+Car Class: Super
+
+
+Widebody Comet
+
+$ price: 1-3M
+
+Market Find: easy
+Market sale: easy
+Demand: normal
+
+Inspired by: Chevy Corvette ZR1
+
+Car Class: Sport
+
+
+Augusta
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: Lamborghini Veneno
+
+Car Class: 
+
+
+LMP24
+
+$ price:
+
+Market Find:
+Market sale:
+Demand: 
+
+Inspired by: 
+
+Car Class: 
+
+
+
+Arcane Evo
+
+$ price:1-7B
+
+Market Find: staff car
+Market sale: staff car
+Demand: staff car
+
+Inspired by: Apollo Project Evo
+
+Car Class:
+
+
+Crescendo
+
+$ price:1-7B
+
+Market Find: staff car
+Market sale: staff car
+Demand: staff car
+
+Inspired by: Ferrari Vision GT
+
+Car Class:
+
+
+Fury
+
+$ price:1-10B
+
+Market Find: staff car
+Market sale: staff car
+Demand: staff car
+
+Inspired by: Mazda Furrai
+
+Car Class:
+
